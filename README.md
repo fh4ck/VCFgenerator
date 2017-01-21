@@ -7,7 +7,7 @@ Visit Card File generator (32-bit and 64-bit Windows)
 
 > - If you do not fully understand how this tool should be used, please don't download / use it.
 
-> - Refer to the laws in your province / country and of the province / country involved in the use of this tool, before accessing, using,or in any other way utilizing it.
+> - Refer to the laws in your province / country and of the province / country involved in the use of this tool, before accessing, using, or in any other way utilizing it.
 
 > - Neither administration of this server, the authors of this material, or anyone else affiliated in any way, is going to accept responsibility for your actions.
 
